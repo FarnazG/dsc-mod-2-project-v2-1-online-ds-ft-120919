@@ -7,7 +7,7 @@
 In this project, we are working with the King County House Sales dataset. 
 We clean, explore, and model this dataset with a multivariate linear regression to predict the sale price of houses as accurately as possible.
 
-[alt text](https://github.com/FarnazG/dsc-mod-2-project-v2-1-online-ds-ft-120919/blob/master/images/kc-map.gif "King County Map")
+![alt text](https://github.com/FarnazG/dsc-mod-2-project-v2-1-online-ds-ft-120919/blob/master/images/kc-map.gif "King County Map")
 
 
 ## Project breakdown
