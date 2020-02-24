@@ -7,7 +7,7 @@
 In this project, we are working with the King County House Sales dataset. 
 We clean, explore, and model this dataset with a multivariate linear regression to predict the sale price of houses as accurately as possible.
 
-![alt text](https://github.com/FarnazG/dsc-mod-2-project-v2-1-online-ds-ft-120919/blob/master/images/kc-map.gif "King County Map")
+[alt text](https://github.com/FarnazG/dsc-mod-2-project-v2-1-online-ds-ft-120919/blob/master/images/kc-map.gif "King County Map")
 
 
 ## Project breakdown
@@ -22,7 +22,7 @@ we have 3 main section to prepare our data and create the linear regression mode
 *checking for duplicateds and outliers
 *save the final clean dataset to work with
 
-![Datacleaning_jupyternotebook](https://github.com/FarnazG/dsc-mod-2-project-v2-1-online-ds-ft-120919/blob/master/DataCleaning-student.ipynb)
+[Datacleaning_jupyternotebook](https://github.com/FarnazG/dsc-mod-2-project-v2-1-online-ds-ft-120919/blob/master/DataCleaning-student.ipynb)
 
 
 #### 2. preprocessing data including:
@@ -42,7 +42,7 @@ we have 3 main section to prepare our data and create the linear regression mode
 >>a) finding the most effective features for predicting housing price
 >>b) writing price estimating equation
 
-![Modeling_jupyternotebook](https://github.com/FarnazG/dsc-mod-2-project-v2-1-online-ds-ft-120919/blob/master/Modeling-student.ipynb)
+[Modeling_jupyternotebook](https://github.com/FarnazG/dsc-mod-2-project-v2-1-online-ds-ft-120919/blob/master/Modeling-student.ipynb)
 
 
 #### 3. Exploratory data analysis including:
@@ -52,13 +52,13 @@ Question2. How does renovation affect the housing price?
 Question3. How much difference is between the price of hoses with the waterfront view and others?
 Question4. what are the most affective factors on the housing price?
 
-![EDA_jupyternotebook](https://github.com/FarnazG/dsc-mod-2-project-v2-1-online-ds-ft-120919/blob/master/EDA-Questions.student.ipynb)
+[EDA_jupyternotebook](https://github.com/FarnazG/dsc-mod-2-project-v2-1-online-ds-ft-120919/blob/master/EDA-Questions.student.ipynb)
 
 
 
 ## Non-technical presentation
 
-![presentation](https://github.com/FarnazG/dsc-mod-2-project-v2-1-online-ds-ft-120919/blob/master/presentation/presentation.pdf)
+[presentation](https://github.com/FarnazG/dsc-mod-2-project-v2-1-online-ds-ft-120919/blob/master/presentation/presentation.pdf)
 
 
 
